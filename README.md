@@ -44,6 +44,9 @@
         <li><a data-section="pending" href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Bekleyen Kanıtlar</a></li>
         <li><a data-section="survey"  href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Anketler</a></li>
         <li><a data-section="bonus"   href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Günlük Bonus</a></li>
+        <li><a data-section="chest"   href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Kasa Sistemi</a></li>
+        <li><a data-section="events"  href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Etkinlikler</a></li>
+        <li><a data-section="chat"    href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Sohbet</a></li>
         <li><a data-section="tasks"   href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Görevlerim</a></li>
         <li><a data-section="rank"    href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Rank</a></li>
         <li><a data-section="support" href="#" class="nav-link block px-4 py-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded">Destek</a></li>
